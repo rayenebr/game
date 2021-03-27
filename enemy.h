@@ -1,5 +1,5 @@
-#ifndef ENEMY2_H_INCLUDED
-#define ENEMY2_H_INCLUDED
+#ifndef ENEMY_H_INCLUDED
+#define ENEMY_H_INCLUDED
 
 #include <stdio.h>
 #include <stdlib.h>
