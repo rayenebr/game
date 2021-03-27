@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <SDL/SDL.h>
 #include <SDL/SDL_image.h>
-#include "enemy2.h"
-#include "perso9.h"
+#include "enemy.h"
+#include "perso.h"
 
 void initEnnemi(Enemy *e)
 {
